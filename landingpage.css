@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+}
+.h_container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.blackbg{
+    background-color: black;
+    color: white;
+}
+.c_item{
+    padding: 0 0 0.2em 0.4em;
+    font-size: 2em;
+}
+.grey80bg{
+    background-color: #313131f6;
+    color: white;
+}
+.grey20bg{
+    background-color: lightgrey;
+}
+.redbg{
+    background-color: red;
+    height: 0.15em;
+}
+.menu{
+    padding-right: 0.5em;
+}
+.ac{
+    text-align: center;
+}
+#logo{
+    vertical-align: middle;
+}
+.b1_container{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 5em 10em 5em 10em;
+}
+.b2_container{
+    height: 400px;
+}
+.b3_container{
+    height: 400px;
+}
+.f_container{
+    height: 400px;
+}
